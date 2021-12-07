@@ -10,5 +10,7 @@ namespace DorsetPOO_studentportal.Academic
     {
         public string AssignmentTopic {get;set;}
         public string AssignmentDue{get;set;}
+        public Assignment()
+        {}
     }
 }
